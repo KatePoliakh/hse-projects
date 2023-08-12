@@ -1,0 +1,17 @@
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\bin\Debug\net6.0\sr1.exe
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\bin\Debug\net6.0\sr1.deps.json
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\bin\Debug\net6.0\sr1.runtimeconfig.json
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\bin\Debug\net6.0\sr1.dll
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\bin\Debug\net6.0\sr1.pdb
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.csproj.AssemblyReference.cache
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.AssemblyInfoInputs.cache
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.AssemblyInfo.cs
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.csproj.CoreCompileInputs.cache
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.csproj.CopyComplete
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.dll
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\refint\sr1.dll
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.pdb
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\sr1.genruntimeconfig.cache
+C:\Users\epoly\RiderProjects\modul_2\samost_rab_1\sr1\sr1\obj\Debug\net6.0\ref\sr1.dll
